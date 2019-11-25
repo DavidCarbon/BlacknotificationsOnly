@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.systemui.blackNotifactions" platformBuildVersionCode="25" platformBuildVersionName="7.1.1">
+    <overlay android:priority="50" android:targetPackage="com.android.systemui"/>
+    <meta-data android:name="rom" android:value="TimberWolf"/>
+    <meta-data android:name="infoShort" android:value="systemui theme"/>
+    <meta-data android:name="infoLong" android:value="This will change theme systemui to TimberWolf Theme"/>
+    <meta-data android:name="author" android:value="setiawanjimmy"/>
+</manifest>

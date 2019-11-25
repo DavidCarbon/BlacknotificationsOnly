@@ -1,0 +1,31 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: 3OpGtmRoA5NRtYfsxXH7IuF/qrg=
+
+Name: res/drawable-xhdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: 0FZe84IzquERuZa05QK7Mh8um4U=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ibCg88HYVwSWIsahTa20lk8lg3A=
+
+Name: resources.arsc
+SHA1-Digest: GqfOIaAwEvYLYCO6rpYUkkC+5z4=
+
+Name: res/drawable-mdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: NbQAs4qcdgklGt5+fqrcX+cdmpQ=
+
+Name: res/drawable-hdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: T6xNwRzsBPXEfZ0jYzRhScjj250=
+
+Name: res/drawable-ldpi-v4/ic_brightness_thumb.png
+SHA1-Digest: bs/oWXoIvJ87SMfMy73bhL/bk6E=
+
+Name: classes.dex
+SHA1-Digest: /OTd7O7rxQ+jRIiQpexy0ebgWHo=
+
+Name: res/drawable-xxhdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: 1/zlBVPlNzdieC3RqGUCXbQR3cY=
+
+Name: res/drawable-xxxhdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: ZncWMVPx1IChGUU/DYbdlHb7Nl4=
+

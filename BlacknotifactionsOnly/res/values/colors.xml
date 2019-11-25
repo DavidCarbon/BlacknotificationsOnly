@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_primary_color">#ff000000</color>
+    <color name="system_secondary_color">#ff000000</color>
+    <color name="system_accent_color">#ff009688</color>
+    <color name="qs_detail_progress_track">#99009688</color>
+    <color name="notification_legacy_background_color">#ff000000</color>
+    <color name="notification_material_background_color">#ff000000</color>
+    <color name="notification_material_background_dimmed_color">#ff000000</color>
+    <color name="notification_material_background_low_priority_color">#ff000000</color>
+    <color name="notification_material_background_media_default_color">#ff000d00</color>
+    <color name="exposed_bg_dark">#ff000000</color>
+    <color name="exposed_bg_light">#ff000000</color>
+    <color name="exposed_volume_panel">#ff000000</color>
+    <color name="clear_recent_button_color">#ff009688</color>
+    <color name="clear_recent_button_ripple">#50009688</color>
+    <color name="fab_color">#ff009688</color>
+    <color name="qs_tile_divider">#00000000</color>
+    <color name="notification_ripple_untinted_color">#28ffffff</color>
+    <color name="notification_ripple_color_low_priority">#30ffffff</color>
+    <color name="exposed_primary_text_light">#fffafafa</color>
+    <color name="exposed_secondary_text_light">#fffafafa</color>
+    <color name="exposed_TextAppearance.Material.Notification.Parenthetical">#fffafafa</color>
+    <color name="exposed_system_panel_text_light">#fffafafa</color>
+    <color name="exposed_TextAppearance_Network">#fffafafa</color>
+    <color name="exposed_more_text">#fffafafa</color>
+    <color name="exposed_toggle">#fffafafa</color>
+    <color name="exposed_segmented_button_text_selector">#fffafafa</color>
+</resources>

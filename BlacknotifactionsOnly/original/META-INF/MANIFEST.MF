@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: Z6i0i9KCwIEJ7m7w45rWFrs5LAY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: nZRlx+bXVI9xHMQqTRuz0yh9NXo=
+
+Name: resources.arsc
+SHA1-Digest: 7logPiE/YBQlCaTrGesZwzNyHIY=
+
+Name: res/drawable-mdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: J4/xHoWFsOGosQkSHhy+9DbxA6I=
+
+Name: res/drawable-hdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: 7KzeKqnApNK4SD2bTk/TsytyiT0=
+
+Name: res/drawable-ldpi-v4/ic_brightness_thumb.png
+SHA1-Digest: 6SK8iFbNO+SQil3MOhFnUL6mQ1Y=
+
+Name: res/drawable-xxhdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: gDOHBrg7TfK+CjHX2vfLfPWHXAI=
+
+Name: classes.dex
+SHA1-Digest: 8pt0fd4eYIq5EfQXZciYsuJTGpY=
+
+Name: res/drawable-xxxhdpi-v4/ic_brightness_thumb.png
+SHA1-Digest: Vqr3cYOUkg115dxcTsn6GizXfKA=
+

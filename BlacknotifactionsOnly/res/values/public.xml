@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="ic_brightness_thumb" id="0x7f020000" />
+    <public type="color" name="system_primary_color" id="0x7f030000" />
+    <public type="color" name="system_secondary_color" id="0x7f030001" />
+    <public type="color" name="system_accent_color" id="0x7f030002" />
+    <public type="color" name="qs_detail_progress_track" id="0x7f030003" />
+    <public type="color" name="notification_legacy_background_color" id="0x7f030004" />
+    <public type="color" name="notification_material_background_color" id="0x7f030005" />
+    <public type="color" name="notification_material_background_dimmed_color" id="0x7f030006" />
+    <public type="color" name="notification_material_background_low_priority_color" id="0x7f030007" />
+    <public type="color" name="notification_material_background_media_default_color" id="0x7f030008" />
+    <public type="color" name="exposed_bg_dark" id="0x7f030009" />
+    <public type="color" name="exposed_bg_light" id="0x7f03000a" />
+    <public type="color" name="exposed_volume_panel" id="0x7f03000b" />
+    <public type="color" name="clear_recent_button_color" id="0x7f03000c" />
+    <public type="color" name="clear_recent_button_ripple" id="0x7f03000d" />
+    <public type="color" name="fab_color" id="0x7f03000e" />
+    <public type="color" name="qs_tile_divider" id="0x7f03000f" />
+    <public type="color" name="notification_ripple_untinted_color" id="0x7f030010" />
+    <public type="color" name="notification_ripple_color_low_priority" id="0x7f030011" />
+    <public type="color" name="exposed_primary_text_light" id="0x7f030012" />
+    <public type="color" name="exposed_secondary_text_light" id="0x7f030013" />
+    <public type="color" name="exposed_TextAppearance.Material.Notification.Parenthetical" id="0x7f030014" />
+    <public type="color" name="exposed_system_panel_text_light" id="0x7f030015" />
+    <public type="color" name="exposed_TextAppearance_Network" id="0x7f030016" />
+    <public type="color" name="exposed_more_text" id="0x7f030017" />
+    <public type="color" name="exposed_toggle" id="0x7f030018" />
+    <public type="color" name="exposed_segmented_button_text_selector" id="0x7f030019" />
+    <public type="dimen" name="notification_material_rounded_rect_radius" id="0x7f040000" />
+    <public type="dimen" name="notification_material_rounded_rect_radius_negative" id="0x7f040001" />
+    <public type="dimen" name="recents_task_view_rounded_corners_radius" id="0x7f040002" />
+    <public type="style" name="systemui_theme" id="0x7f050000" />
+    <public type="style" name="Theme.SystemUI.Dialog" id="0x7f050001" />
+    <public type="style" name="TextAppearance.Material.Notification.Parenthetical" id="0x7f050002" />
+</resources>
